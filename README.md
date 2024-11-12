@@ -35,7 +35,7 @@ Seeking passionate individuals to join ParadiseLabs and contribute to our AI sta
 ## 🤝 Other ParadiseLabs Founder
 - Kareem: [GitHub Profile](https://github.com/Kareem411)
 
-## ⚡ Fun fact
+## ~~⚡Fun~~ 😔 Sad Fact
 ParadiseLabs is named after my late daughter, Eden. "Eden" means "paradise," which inspired the name of our lab, keeping her memory alive in our innovative work.
 
 Stay tuned for the release of our groundbreaking products currently under development!
